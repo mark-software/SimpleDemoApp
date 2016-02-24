@@ -15,4 +15,4 @@ Hex colors:
 33b5e5
 ff0000
 
-![alt tag](https://drive.google.com/file/d/0B5E-FF4F5yd_cUhhbEEzcHBnU0U/view)
+![Alt preview](/demo_app.gif?raw=true "Preview")
