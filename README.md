@@ -4,7 +4,7 @@ Simple app that makes network requests and changes resource assets based on prod
 Note:<br />
 To see how the product flavors differ > from Android Studio select > Build Variants (bottom left) > flavortwoDebug (or flavoroneDebug) and run the app. App icon and floating action button will change image assets.
 
-Icons usede:<br />
+Icons used:<br />
 https://design.google.com/icons/index.html
 
 Dependencies:<br />
