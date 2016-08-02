@@ -1,5 +1,6 @@
 # SimpleDemoApp
-Simple app that makes network requests and changes resource assets based on product flavor
+Simple app that makes network requests and changes resource assets based on product flavor.
+Created for http://www.meetup.com/code-district/events/228586398
 
 Note:<br />
 To see how the product flavors differ > from Android Studio select > Build Variants (bottom left) > flavortwoDebug (or flavoroneDebug) and run the app. App icon and floating action button will change image assets.
